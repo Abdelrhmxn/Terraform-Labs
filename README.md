@@ -1,6 +1,6 @@
 # Terraform-Labs
 ## Lab1
-[1. Configure remote backend and Configure state locking using dynamo db](https://github.com/Abdelrhmxn/Terraform-Labs#1-configure-remote-backend-and-configure-state-locking-using-dynamo-db)
+1. Configure remote backend and Configure state locking using dynamo db
 2. Create vpc
 3. Create internet gateway
 4. Create two public subnets
