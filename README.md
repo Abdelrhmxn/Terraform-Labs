@@ -1,7 +1,7 @@
 # Terraform-Labs
 ## Lab1
 
-<img src="" width="" height="" >
+
 ## Lab2
 
 ### 1. Create Two Workspace dev and prod 
