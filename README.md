@@ -1,6 +1,7 @@
 # Terraform-Labs
 ## Lab1
 
+<img src="" width="" height="" >
 
 ## Lab2
 
