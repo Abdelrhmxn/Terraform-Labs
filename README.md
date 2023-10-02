@@ -16,6 +16,18 @@
 14. Create ec2(application) private subnet with security group from 13
 15. SSH to application using bastian
 
+## Lab2
+1. Create Two Workspace dev and prod 
+2. Create two variables definition file (.tfvars) for two environment
+3. Seperate network resourses into network module
+4. Using count with subnets
+5. Run local-exec provisioner to print the public_ip of bastion ec2
+6. Upload infrastructure code on github project
+7. Jenkinsfile for pipline
+8. Verify your email in ses service
+9. Create Lamda function to send Email
+10. Triggered Email from lambda function
+
 
 ### 1. Configure remote backend and Configure state locking using dynamo db
 #### screenshot from backend.tf 
@@ -74,7 +86,7 @@
 <img src="https://github.com/Abdelrhmxn/Terraform-Labs/assets/55556764/bfde8c29-75c1-4a6f-b2fe-cbaa4781f240" width="" height="" >
 
 #### SSH to Bastian EC2 And use genereted private key to access private EC2
-<img src="https://github.com/Abdelrhmxn/Terraform-Labs/assets/55556764/807068ec-421a-48ef-bd9c-048f2878d60b" width="" height="" >
+<img src="https://github.com/Abdelrhmxn/Terraform-Labs/assets/55556764/688a5b71-07ef-45d3-8aa8-1033ce6aed78" width="" height="" >
 
 
 
