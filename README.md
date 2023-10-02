@@ -28,7 +28,7 @@
 9. Create Lamda function to send Email
 10. Triggered Email from lambda function
 
-
+## Lab1
 ### 1. Configure remote backend and Configure state locking using dynamo db
 #### screenshot from backend.tf 
 <img src="https://github.com/Abdelrhmxn/Terraform-Labs/assets/55556764/2acc6d63-a46a-44c5-8b65-7987a21ba036" width="" height="" >
