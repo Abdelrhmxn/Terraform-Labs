@@ -44,6 +44,14 @@ terraform workspace new dev
 <img src="https://github.com/Abdelrhmxn/Terraform-Labs/assets/55556764/3d291a97-e9d0-4fb0-b074-7939a7b690e8" width="" height="" >
 <img src="https://github.com/Abdelrhmxn/Terraform-Labs/assets/55556764/aa8c7bff-f95d-4f70-b02b-240d445c13c9" width="" height="" >
 
+### 8. Verify your email in ses service
+<img src="https://github.com/Abdelrhmxn/Terraform-Labs/assets/55556764/6ea6e692-9128-444f-ada7-1d51e3aa33b6" width="" height="" >
+
+### 9. Create Lamda function to send Email
+<img src="https://github.com/Abdelrhmxn/Terraform-Labs/assets/55556764/d9c6e3d9-8833-4665-a5f6-7e7dd84ae760" width="" height="" >
+
+### 10. Triggered Email from lambda function
+<img src="https://github.com/Abdelrhmxn/Terraform-Labs/assets/55556764/b5510ca3-fb8c-4aa2-af44-c5008d786aeb" width="" height="" >
 
 
 
