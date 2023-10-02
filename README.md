@@ -1,7 +1,27 @@
 # Terraform-Labs
 ## Lab1
+1. Configure remote backend
+2. Configure state locking using dynamo db
+3. Create vpc
+4. Create internet gateway
+5. Create two public subnets
+6. Create two private subnets
+7. Create nat gateway
+8. Create public route table
+9. Attach public route table to public subnets
+10. Create private route table
+11. Attach Private route table to private subnets
+12. Create security group which allow ssh from 0.0.0.0/0
+13. Create security group that allow ssh and port 3000 from vpc cidr only
+14. Create ec2(bastion) in public subnet with security group from 12
+15. Create ec2(application) private subnet with security group from 13
+16. SSH to application using bastian
 
-<img src="" width="" height="" >
+### 1. Configure remote backend
+
+
+
+
 
 ## Lab2
 
